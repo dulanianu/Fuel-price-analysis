@@ -4,6 +4,12 @@
 This project analyses Western Australian fuel price data to identify pricing trends, cheapest buying days, and suburb-level price differences.
 The goal is to help consumers make **cost-saving fuel purchasing decisions** using data-driven insights.
 
+![Dashboard Overview](images/dashboard_overview.png)
+
+## Data Source
+
+FuelWatch (Government of Western Australia)
+
 ## Key Questions Answered
 
 - Which day of the week is cheapest to buy fuel?
@@ -45,6 +51,4 @@ The interactive dashboard allows users to:
 
 - Filter by fuel type, suburb, brand, and date range
 
-## Data Source
 
-FuelWatch (Government of Western Australia)
